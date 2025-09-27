@@ -281,40 +281,20 @@
     </header>
 
     <div class="container">
-        <div class="filters">
-            <button class="filter-btn active" data-filter="all">🎭 All Memes</button>
-            <button class="filter-btn" data-filter="prompt">🤖 Prompt Engineering</button>
-            <button class="filter-btn" data-filter="debug">😭 Debugging with AI</button>
-            <button class="filter-btn" data-filter="success">🎯 When AI Gets It</button>
-            <button class="filter-btn" data-filter="hallucination">🎪 Hallucinations</button>
+        <div class="filters" id="filterButtons">
+            <!-- Will be populated dynamically -->
         </div>
 
         <section class="hero-section">
-            <div class="hero-meme">
-                <img src="U R Right/absolutely_right.png" alt="You are absolutely right">
+            <div class="hero-meme" id="heroMeme">
+                <!-- Will be populated dynamically -->
             </div>
             <h2>Welcome to the Sacred Hall of AI Agent Memes</h2>
             <p>Where we collect the most relatable, hilarious, and painfully accurate memes about working with AI agents.</p>
         </section>
 
         <div class="meme-grid" id="memeGrid">
-            <div class="meme-card" data-category="prompt">
-                <img src="U R Right/absolutely_right.png" alt="Absolutely Right" loading="lazy">
-                <div class="meme-info">
-                    <h3 class="meme-title">You Are Absolutely Right!</h3>
-                    <p>The classic moment when your AI finally gets it</p>
-                    <span class="meme-category">Prompt Engineering</span>
-                </div>
-            </div>
-
-            <div class="meme-card" data-category="success">
-                <img src="U R Right/I'm_vibe_coding.png" alt="Vibe Coding" loading="lazy">
-                <div class="meme-info">
-                    <h3 class="meme-title">I'm Vibe Coding</h3>
-                    <p>"Are you still coding manually?" - Every developer in 2025</p>
-                    <span class="meme-category">AI Superpowers</span>
-                </div>
-            </div>
+            <!-- Memes will be loaded dynamically -->
         </div>
 
         <section class="cta-section">

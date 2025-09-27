@@ -1,0 +1,25 @@
+{
+  "id": "absolutely-right",
+  "title": "You Are Absolutely Right!",
+  "title_zh": "你说得对！",
+  "description": "The classic moment when your AI finally gets it after multiple attempts",
+  "description_zh": "当你的 AI 终于理解你的意图时的经典时刻",
+  "category": ["prompt-engineering", "success"],
+  "tags": ["classic", "understanding", "breakthrough"],
+  "images": [
+    {
+      "file": "absolutely_right.png",
+      "caption": "The original 'absolutely right' moment",
+      "caption_zh": "原版的'你说得对'时刻"
+    }
+  ],
+  "context": {
+    "scenario": "After explaining the same thing 10 times to your AI",
+    "scenario_zh": "在向 AI 解释了10次同样的事情之后",
+    "emotion": "relief",
+    "relatability": 10
+  },
+  "created_at": "2024-09-18",
+  "author": "Deepractice Community",
+  "license": "CC0"
+}

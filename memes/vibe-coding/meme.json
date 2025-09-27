@@ -1,0 +1,25 @@
+{
+  "id": "vibe-coding",
+  "title": "I'm Vibe Coding",
+  "title_zh": "我在氛围编程",
+  "description": "When someone asks if you're still coding manually in 2025",
+  "description_zh": "当有人问你2025年还在手写代码吗",
+  "category": ["ai-superpowers", "productivity"],
+  "tags": ["coding", "ai-assisted", "future", "productivity"],
+  "images": [
+    {
+      "file": "I'm_vibe_coding.png",
+      "caption": "The future of programming is here",
+      "caption_zh": "编程的未来已来"
+    }
+  ],
+  "context": {
+    "scenario": "Explaining how you code with AI assistance",
+    "scenario_zh": "解释你如何用 AI 辅助编程",
+    "emotion": "confidence",
+    "relatability": 9
+  },
+  "created_at": "2024-09-18",
+  "author": "Deepractice Community",
+  "license": "CC0"
+}
