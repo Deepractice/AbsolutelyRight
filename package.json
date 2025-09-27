@@ -1,0 +1,31 @@
+{
+  "name": "absolutely-right",
+  "version": "1.0.0",
+  "description": "The Ultimate Collection of AI Agent Memes",
+  "main": "build.js",
+  "scripts": {
+    "build": "node build.js",
+    "serve": "npx http-server dist -p 8080",
+    "dev": "npm run build && npm run serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Deepractice/AbsolutelyRight.git"
+  },
+  "keywords": [
+    "ai",
+    "memes",
+    "agent",
+    "prompt-engineering",
+    "ai-humor"
+  ],
+  "author": "Deepractice Community",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Deepractice/AbsolutelyRight/issues"
+  },
+  "homepage": "https://github.com/Deepractice/AbsolutelyRight#readme",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}

@@ -1,0 +1,13 @@
+node_modules/
+.DS_Store
+*.log
+.env
+.vscode/
+.idea/
+
+# Build output
+dist/
+
+# Temporary files
+*.tmp
+*.swp

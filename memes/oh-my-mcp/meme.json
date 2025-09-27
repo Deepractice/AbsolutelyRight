@@ -1,0 +1,26 @@
+{
+  "id": "oh-my-mcp",
+  "title": "Oh My MCP!",
+  "title_zh": "天哪，MCP！",
+  "description": "MCP (Model Context Protocol) users discovering the power of AI tool integration",
+  "description_zh": "MCP (模型上下文协议) 用户发现 AI 工具集成的强大力量",
+  "category": ["ai-superpowers", "productivity", "future"],
+  "tags": ["mcp", "tools", "integration", "amazed", "power-users", "anthropic"],
+  "images": [
+    {
+      "file": "MCP Users.jpeg",
+      "caption": "When you realize what MCP can do",
+      "caption_zh": "当你意识到 MCP 能做什么的时候",
+      "is_primary": true
+    }
+  ],
+  "context": {
+    "scenario": "When developers discover they can give Claude access to their entire development environment",
+    "scenario_zh": "当开发者发现可以让 Claude 访问他们的整个开发环境时",
+    "emotion": "surprise",
+    "relatability": 9
+  },
+  "created_at": "2024-09-27",
+  "author": "Deepractice Community",
+  "license": "CC0"
+}
