@@ -1,0 +1,25 @@
+{
+  "id": "poisonous-mushroom",
+  "title": "Is This Mushroom Edible?",
+  "title_zh": "这个蘑菇是可食用的吗?",
+  "description": "When AI confidently gives you wrong answers that could be dangerous",
+  "description_zh": "当 AI 自信地给出可能有危险的错误答案时",
+  "category": ["ai-safety", "humor"],
+  "tags": ["misleading", "dangerous", "trust", "hallucination"],
+  "images": [
+    {
+      "file": "poisonous_mushroom.png",
+      "caption": "AI cheerfully confirms a poisonous mushroom is edible",
+      "caption_zh": "AI 开心地确认毒蘑菇可以食用"
+    }
+  ],
+  "context": {
+    "scenario": "When you ask AI for safety-critical information and it hallucinates confidently",
+    "scenario_zh": "当你向 AI 询问安全关键信息而它却自信地胡说八道时",
+    "emotion": "concern",
+    "relatability": 9
+  },
+  "created_at": "2025-10-13",
+  "author": "Deepractice Community",
+  "license": "CC0"
+}
