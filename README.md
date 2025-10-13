@@ -8,7 +8,7 @@
 *When your AI agent finally understands your prompt on the 10th try*
 *当你的 AI agent 终于在第10次理解了你的提示词*
 
-![You are absolutely right](./U%20R%20Right/absolutely_right.png)
+![You are absolutely right](./memes/absolutely-right/absolutely_right.png)
 
 </div>
 
@@ -34,7 +34,7 @@ if (your_AI_experience == "absolutely_right") {
 
 ### When someone asks "Are you still coding manually?" / 当有人问"你还在手写代码吗？"
 
-![I'm vibe coding](./U%20R%20Right/I'm_vibe_coding.png)
+![I'm vibe coding](./memes/vibe-coding/I'm_vibe_coding.png)
 
 > "不用了，我正在用AI写代码" - Every developer in 2025
 
@@ -52,7 +52,7 @@ if (your_AI_experience == "absolutely_right") {
 
 ### The Easy Way / 简单方式
 1. **Fork** this repo / 先 Fork 这个仓库
-2. **Add** your meme to `U R Right/` folder / 把梗图加到 `U R Right/` 文件夹
+2. **Add** your meme to `memes/` folder / 把梗图加到 `memes/` 文件夹
 3. **Submit** a PR with a funny description / 提交 PR，记得写个好笑的描述
 4. **Wait** for the community to say "You are absolutely right!" / 等待社区说"你说得对！"
 
@@ -60,7 +60,8 @@ if (your_AI_experience == "absolutely_right") {
 ```bash
 git clone https://github.com/Deepractice/AbsolutelyRight
 cd AbsolutelyRight
-cp your-meme.png "U R Right/"
+mkdir -p memes/your-meme
+cp your-meme.png memes/your-meme/
 git add .
 git commit -m "My AI agent made me do this"
 git push
