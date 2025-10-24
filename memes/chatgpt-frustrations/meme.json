@@ -1,0 +1,14 @@
+{
+  "id": "chatgpt-frustrations",
+  "title": "ChatGPT User Complaints",
+  "title_zh": "ChatGPT用户吐槽",
+  "description": "Meme about common problems and frustrations users encounter with ChatGPT",
+  "description_zh": "关于ChatGPT用户遇到的常见问题和吐槽的梗图",
+  "category": ["debug", "hallucination"],
+  "tags": ["chatgpt", "frustration", "bugs", "limitations"],
+  "images": [{"file": "chatgpt-frustrations.png", "caption": "ChatGPT Issues", "caption_zh": "ChatGPT问题", "is_primary": true}],
+  "context": {"scenario": "Sharing frustrations about AI assistant limitations", "scenario_zh": "分享对AI助手局限的吐槽时", "emotion": "frustration|sarcasm", "relatability": 8},
+  "created_at": "2025-10-24",
+  "author": "Community",
+  "license": "CC0"
+}

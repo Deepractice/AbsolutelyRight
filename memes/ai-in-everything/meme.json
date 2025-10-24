@@ -1,0 +1,14 @@
+{
+  "id": "ai-in-everything",
+  "title": "Let's Put AI In Everything",
+  "title_zh": "把AI加到所有东西里面",
+  "description": "Satirical meme mocking the trend of forcing AI features into every product and service",
+  "description_zh": "讽刺把AI硬加到所有产品和服务的流行趋势的梗图",
+  "category": ["hallucination", "productivity"],
+  "tags": ["satire", "ai-overuse", "product-bloat"],
+  "images": [{"file": "ai-in-everything.png", "caption": "AI Everywhere", "caption_zh": "AI无处不在", "is_primary": true}],
+  "context": {"scenario": "Criticizing unnecessary AI implementation in products", "scenario_zh": "吐槽产品中不必要的AI实现时", "emotion": "frustration|humor", "relatability": 9},
+  "created_at": "2025-10-24",
+  "author": "Community",
+  "license": "CC0"
+}
