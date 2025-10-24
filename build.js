@@ -645,6 +645,20 @@ function build() {
     // Copy static files
     copyStaticFiles();
 
+    // Copy Cloudflare config files to dist
+    const headersFile = path.join(__dirname, '_headers');
+    const redirectsFile = path.join(__dirname, '_redirects');
+
+    if (fs.existsSync(headersFile)) {
+        fs.copyFileSync(headersFile, path.join(DIST_DIR, '_headers'));
+        console.log('📄 Copied _headers');
+    }
+
+    if (fs.existsSync(redirectsFile)) {
+        fs.copyFileSync(redirectsFile, path.join(DIST_DIR, '_redirects'));
+        console.log('📄 Copied _redirects');
+    }
+
     console.log(`\n✨ Build completed successfully!`);
     console.log(`📊 Total memes: ${memes.length}`);
     console.log(`📁 Categories: ${Object.keys(index.categories).join(', ')}`);

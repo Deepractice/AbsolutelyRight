@@ -1,0 +1,20 @@
+name = "absolutely-right"
+type = "javascript"
+account_id = ""
+workers_dev = true
+main = "build.js"
+
+# Cloudflare Pages configuration
+[env.production]
+vars = { ENVIRONMENT = "production" }
+
+[build]
+command = "npm run build"
+cwd = "./"
+watch_paths = ["memes/**/*"]
+
+[build.upload]
+format = "service-worker"
+
+[observability]
+enabled = true
