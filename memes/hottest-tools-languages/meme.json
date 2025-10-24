@@ -1,0 +1,30 @@
+{
+  "id": "hottest-tools-languages",
+  "title": "The Hottest Programming Tools & Languages",
+  "title_zh": "最热门的编程工具和编程语言",
+  "description": "A humorous ranking of the most popular programming tools and languages trending today, showing the tools developers absolutely can't live without.",
+  "description_zh": "展示当今最受欢迎的编程工具和语言的幽默排行榜，突出开发者们必不可少的工具和语言。",
+
+  "category": ["prompt-engineering", "ai-superpowers"],
+  "tags": ["trending", "tools", "languages", "ai", "humor"],
+
+  "images": [
+    {
+      "file": "hottest_tools_languages.jpg",
+      "caption": "Top programming tools and languages ranking",
+      "caption_zh": "编程工具和语言热度排行",
+      "is_primary": true
+    }
+  ],
+
+  "context": {
+    "scenario": "When discussing which tools and languages are currently the most popular and trending in the development community",
+    "scenario_zh": "讨论当下开发社区中最流行、最热门的编程工具和语言时",
+    "emotion": "joy|confidence",
+    "relatability": 9
+  },
+
+  "created_at": "2025-10-24",
+  "author": "Community",
+  "license": "CC0"
+}
