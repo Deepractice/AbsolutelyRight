@@ -1,0 +1,14 @@
+{
+  "id": "italian-brainrot-ai",
+  "title": "Italian Brain Rot AI Memes",
+  "title_zh": "意大利脑残AI梗图",
+  "description": "Absurd and nonsensical AI-generated meme style that's trending among Gen Z online communities",
+  "description_zh": "在Gen Z网络社区中流行的荒诞无意义AI生成梗图风格",
+  "category": ["ai-superpowers", "hallucination"],
+  "tags": ["brainrot", "absurd", "viral", "gen-z", "ai-generated"],
+  "images": [{"file": "italian-brainrot-ai.png", "caption": "Brain Rot Memes", "caption_zh": "脑残梗图", "is_primary": true}],
+  "context": {"scenario": "Discussing absurd and funny AI-generated content", "scenario_zh": "讨论荒诞搞笑的AI生成内容时", "emotion": "confusion|amusement", "relatability": 7},
+  "created_at": "2025-10-24",
+  "author": "Community",
+  "license": "CC0"
+}

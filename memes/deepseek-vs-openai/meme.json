@@ -1,0 +1,14 @@
+{
+  "id": "deepseek-vs-openai",
+  "title": "DeepSeek vs OpenAI",
+  "title_zh": "DeepSeek vs OpenAI",
+  "description": "Recent viral comparison between DeepSeek and OpenAI in AI development competition",
+  "description_zh": "最近爆火的DeepSeek和OpenAI的AI开发竞争对比梗",
+  "category": ["ai-superpowers", "comparison"],
+  "tags": ["deepseek", "openai", "ai-competition", "2025"],
+  "images": [{"file": "deepseek-vs-openai.png", "caption": "DeepSeek vs OpenAI", "caption_zh": "DeepSeek vs OpenAI", "is_primary": true}],
+  "context": {"scenario": "Discussing AI company competition and innovations", "scenario_zh": "讨论AI公司竞争和创新时", "emotion": "joy|surprise", "relatability": 9},
+  "created_at": "2025-10-24",
+  "author": "Community",
+  "license": "CC0"
+}
